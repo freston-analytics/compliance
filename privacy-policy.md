@@ -1,7 +1,3 @@
-Here's the updated markdown file with `{Holygrill.appState?.registrationState?.selectedPractice?.email}` replaced with `support@frestonanalytics.com`:
-
----
-
 # Privacy Policy
 
 ## Introduction
@@ -104,7 +100,4 @@ We may update this Privacy Policy periodically. When significant changes occur, 
 
 If you have any questions or concerns, contact us at:  
 **support@frestonanalytics.com**  
-
----
-
-Let me know if you need any further updates!
+ 
