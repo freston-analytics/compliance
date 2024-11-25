@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to `dps-uk`, a comprehensive mobile application designed for dental patients to manage their dental appointments, view medical records, and access other related services. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal data when you use the `{appName}` app.
+Welcome to `dps-uk`, a comprehensive mobile application designed for dental patients to manage their dental appointments, view medical records, and access other related services. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal data when you use the `dps-uk` app.
 
 ---
 
